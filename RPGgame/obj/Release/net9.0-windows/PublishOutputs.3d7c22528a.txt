@@ -1,5 +1,0 @@
-C:\Users\Administrator\Desktop\Kod ve programlama uygulamaları\C#\RPGgame\RPGgame\RPGgame.exe
-C:\Users\Administrator\Desktop\Kod ve programlama uygulamaları\C#\RPGgame\RPGgame\RPGgame.dll
-C:\Users\Administrator\Desktop\Kod ve programlama uygulamaları\C#\RPGgame\RPGgame\RPGgame.deps.json
-C:\Users\Administrator\Desktop\Kod ve programlama uygulamaları\C#\RPGgame\RPGgame\RPGgame.runtimeconfig.json
-C:\Users\Administrator\Desktop\Kod ve programlama uygulamaları\C#\RPGgame\RPGgame\RPGgame.pdb
